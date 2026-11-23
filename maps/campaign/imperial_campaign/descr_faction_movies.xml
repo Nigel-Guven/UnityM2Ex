@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<faction_movies>
+	<faction>
+		<name>england</name>
+		<intro></intro>
+		<victory>faction/england_win.bik</victory>
+		<defeat>faction/england_lose.bik</defeat>
+		<death>faction/england_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>france</name>
+		<intro></intro>
+		<victory>faction/france_win.bik</victory>
+		<defeat>faction/france_lose.bik</defeat>
+		<death>faction/france_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>hre</name>
+		<intro></intro>
+		<victory>faction/hre_win.bik</victory>
+		<defeat>faction/hre_lose.bik</defeat>
+		<death>faction/hre_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>spain</name>
+		<intro></intro>
+		<victory>faction/spain_win.bik</victory>
+		<defeat>faction/spain_lose.bik</defeat>
+		<death>faction/spain_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>venice</name>
+		<intro></intro>
+		<victory>faction/venice_win.bik</victory>
+		<defeat>faction/venice_lose.bik</defeat>
+		<death>faction/venice_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>sicily</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>milan</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>scotland</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>byzantium</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>russia</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>moors</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>turks</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>egypt</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>denmark</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>portugal</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>poland</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>hungary</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>papal_states</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>aztecs</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>mongols</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>timurids</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>wales</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>mayans</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>chichimeca</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>tarascans</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>tlaxcalans</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>jerusalem</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>antioch</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>teutonic_order</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>edessa</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>ismailites</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>manchuria</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+<faction>
+		<name>ming</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>korea</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>vietnam</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>burma</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>dzungaria</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>trebizond</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>georgia</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>uyunids</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>naples</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>genoa</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+	<faction>
+		<name>savoy</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+
+
+
+<faction>
+		<name>slave</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>japan</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>india</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>mali</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+	<faction>
+		<name>zimbabwe</name>
+		<intro></intro>
+		<victory>faction/minor_win.bik</victory>
+		<defeat>faction/minor_lose.bik</defeat>
+		<death>faction/minor_lose.bik</death>
+	</faction>
+</faction_movies>

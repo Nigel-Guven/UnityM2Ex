@@ -1,0 +1,375 @@
+england
+hold_regions Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive france scotland
+
+france
+hold_regions Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 20
+outlive england
+
+hre
+hold_regions Roman_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 20
+outlive denmark milan
+
+spain
+hold_regions Jerusalem_Province Granada_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive moors portugal
+
+venice
+hold_regions Constantinople_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive milan byzantium
+
+sicily
+hold_regions Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive milan venice
+
+milan
+hold_regions Constantinople_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive venice hre
+
+scotland
+hold_regions Jerusalem_Province Edinburgh_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive england
+
+byzantium
+hold_regions Roman_Province Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive turks venice
+
+russia
+hold_regions Constantinople_Province Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive poland hungary
+
+moors
+hold_regions Jerusalem_Province Toledo_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive spain portugal
+
+turks
+hold_regions Constantinople_Province Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 20
+outlive byzantium
+
+egypt
+hold_regions Constantinople_Province Jerusalem_Province Mekka_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive turks moors
+
+denmark
+hold_regions Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 20
+outlive hre
+
+portugal
+hold_regions Jerusalem_Province Granada_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive moors spain
+
+poland
+hold_regions Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive russia hungary
+
+hungary
+hold_regions Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive poland hre
+
+papal_states
+hold_regions Roman_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive hre 
+
+mongols
+hold_regions Samarkand_Province Baghdad_Province Kiev_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 20
+outlive azumi timurids
+
+timurids
+hold_regions Kiev_Province Constantinople_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive russia novgorod
+
+norway
+hold_regions London_Province Carolina_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 20
+outlive scotland denmark
+
+ireland
+hold_regions Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 20
+outlive england norway
+
+wales
+hold_regions Caernarvon_Province Powys_Principality Morgannwg_Principality London_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive england
+
+lithuania
+hold_regions Frankfurt_Province Kaunas_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive hre
+
+novgorod
+hold_regions Constantinople_Province Jerusalem_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive poland hungary
+
+tuareg
+hold_regions Cairo_Province Baghdad_Province  
+take_regions 45
+outlive egypt
+short_campaign hold_regions
+take_regions 15
+outlive egypt turks
+
+damascus
+hold_regions Jerusalem_Province Mekka_Province Cairo_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive turks egypt
+
+azumi
+hold_regions Rayy_Province Karakorum_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive turks damascus
+
+cilicia
+hold_regions Jerusalem_Province Constantinople_Province Yerevan_Province 
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+outlive byzantium turks
+
+aztecs
+hold_regions Toledo_Province Choctaw_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+apachean
+hold_regions London_Province  Tenochtitlan_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+mayans
+hold_regions Yucatan Tenochtitlan_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+chichimeca
+hold_regions Northern_Mexico Tenochtitlan_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+tarascans
+hold_regions Apatzingan_Province Tenochtitlan_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+tlaxcalans
+hold_regions Tlaxcala_Province Tenochtitlan_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+jerusalem
+hold_regions Jerusalem_Province Acre_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+antioch
+hold_regions Antioch_Province Edessa_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+teutonic_order
+hold_regions Riga_Province Stettin_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+edessa
+hold_regions Edessa_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+ismailites
+hold_regions Masyaf_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+manchuria
+hold_regions Yarkand_Province Osh_Province
+take_regions 45
+short_campaign hold_regions Yarkand_Province Osh_Province
+take_regions 15
+
+ming
+hold_regions Balagasun_Province Yasi_Province
+take_regions 45
+short_campaign hold_regions Balagasun_Province Yasi_Province
+take_regions 15
+
+korea
+hold_regions Lahore_Province Peshawar_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+vietnam
+hold_regions Shiraz_Province Yazd_Province
+take_regions 45
+short_campaign hold_regions Shiraz_Province Yazd_Province
+take_regions 15
+
+burma
+hold_regions Balkh_Province Bamiyan_Province
+take_regions 45
+short_campaign hold_regions Balkh_Province Bamiyan_Province
+take_regions 15
+
+dzungaria
+hold_regions Ongud_Province Almaliq_Province
+take_regions 45
+short_campaign hold_regions Ongud_Province Almaliq_Province
+take_regions 15
+
+trebizond
+hold_regions Trebizond_Province Sinope_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+georgia
+hold_regions Tbilisi_Province Yerevan_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+uyunids
+hold_regions Al-Hasa_Province Yamama_Province Najran_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+naples
+hold_regions Brazil
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+genoa
+hold_regions Paramaribo_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+savoy
+hold_regions Caracas_Province
+take_regions 45
+short_campaign hold_regions
+take_regions 15
+
+slave
+hold_regions Roman_Province Tenochtitlan_Province 
+take_regions 180
+short_campaign hold_regions Tenochtitlan_Province Roman_Province 
+take_regions 180
+
+japan
+hold_regions Harat_Province Zaranj_Province
+take_regions 45
+short_campaign hold_regions Harat_Province Zaranj_Province
+take_regions 15
+outlive slave
+
+india
+hold_regions Mansura_Province Debal_Province
+take_regions 45
+short_campaign hold_regions Mansura_Province Debal_Province
+take_regions 15
+outlive slave
+
+mali
+hold_regions Niani_Province
+take_regions 45
+short_campaign hold_regions Niani_Province
+take_regions 15
+outlive slave
+
+zimbabwe
+hold_regions Zimbabwe_Province
+take_regions 45
+short_campaign hold_regions Zimbabwe_Province
+take_regions 15
+outlive slave
